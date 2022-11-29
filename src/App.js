@@ -40,7 +40,7 @@ function App() {
   };
 
   return (
-    <div className="app" style={{ backgroundImage: `url(${bg})` }}>
+    <div className="app" style={{ backgroundImage: `url(${bg})`, backgroundSize: 'cover' }}>
       <div className="overlay">
         {weather && (
           <div className="container">
