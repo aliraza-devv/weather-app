@@ -1,4 +1,12 @@
 # Getting Started with Create React App
+# Video
+<img src="https://github.com/aliraza-devv/weather-app/blob/main/Output/video.gif" alt="Output video" />
+# Images
+<img src="https://github.com/aliraza-devv/weather-app/blob/main/Output/1.png" alt="Output Image" />
+<img src="https://github.com/aliraza-devv/weather-app/blob/main/Output/2.png" alt="Output Image" />
+<img src="https://github.com/aliraza-devv/weather-app/blob/main/Output/3.png" alt="Output Image" />
+<img src="https://github.com/aliraza-devv/weather-app/blob/main/Output/4.png" alt="Output Image" />
+<img src="https://github.com/aliraza-devv/weather-app/blob/main/Output/5.png" alt="Output Image" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
